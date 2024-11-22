@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akmaleihad" alt="akmaleihad" /></a> </p>
 
-- 🔭 I’m currently working on **zPay FrontEnd**
+- 🔭 I’m currently working on **KYPJ eCafe | Web & Mobile**
 
 - 🌱 I’m currently learning **NextJS & TypeScript**
 
